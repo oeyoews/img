@@ -6,5 +6,5 @@
 
 ## todo
 
-- [ ] use img api
+- [ ] use img api in vercel
 * https://note.aya1.top/#/4-phpapi
